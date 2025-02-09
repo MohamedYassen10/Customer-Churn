@@ -29,7 +29,6 @@ All project files, including **Power BI dashboards, datasets, and notebooks**, a
 
 ## 📡 Cloud Integration  
 - **AWS S3**: All project files (datasets, notebooks, Power BI dashboards) are stored on AWS S3 for **easy access and scalability**.  
-- **SQL Server**: Hosted on a **cloud-based SQL instance** for seamless data integration.  
 
 ---
 
