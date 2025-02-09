@@ -14,7 +14,7 @@ All project files, including **Power BI dashboards, datasets, and notebooks**, a
 - **SQL Integration** → Connected and stored data in **SQL Server**.  
 - **Querying** → Built **SQL queries** to analyze customer churn.  
 - **Machine Learning** → Applied **Logistic Regression** and **GridSearchCV** for model optimization.  
-- **A/B Testing** → Conducted **A/B testing** to evaluate the impact of interventions (e.g., discounts) on churn reduction.  
+- **A/B Testing** → Conducted **A/B testing** to evaluate the impact of interventions  on churn reduction.  
 - **Visualization** → Used **Matplotlib** for Python-based visualizations and **Power BI** for interactive dashboards.  
 
 ---
@@ -35,9 +35,9 @@ All project files, including **Power BI dashboards, datasets, and notebooks**, a
 ## 💡 Key Highlights  
 
 ### A/B Testing  
-- Conducted **A/B testing** to evaluate the effectiveness of interventions (**e.g., discounts**) on reducing churn.  
+- Conducted **A/B testing** to evaluate the effectiveness of interventions(ex,internetserver :optical fiber or not) on reducing churn.  
 - Used **Chi-Square Test** to determine statistical significance.  
-- **Results:** Showed a significant **reduction in churn** for customers who received discounts.  
+- **Results:** Showed a significant **reduction in churn** for customers who received uses optical fiber .  
 
 ### Machine Learning  
 - Built and optimized a **Logistic Regression** model using **GridSearchCV**.  
